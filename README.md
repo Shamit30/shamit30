@@ -13,7 +13,7 @@
 
 ### 💡 About Me
 
-I'm a **Software Engineer** with experience building **event-driven, cloud-native, and AI-powered systems** across **Node.js**, **Python**, and **React**.  
+I'm a **Software Engineer** with experience building **event-driven, cloud-native, and AI-powered systems** across **Node.js**, **GoLang** **Python**, and **React**.  
 I specialize in **Generative AI**, **Machine Learning**, and **Distributed Systems**, focusing on transforming data-driven ideas into scalable products.
 
 - ⚙️ Experienced in **event-driven microservice architecture** and asynchronous pipelines  
@@ -89,15 +89,6 @@ I specialize in **Generative AI**, **Machine Learning**, and **Distributed Syste
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamit30&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamit30&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ### 🧠 Recent Highlights
 
 
@@ -108,9 +99,6 @@ I specialize in **Generative AI**, **Machine Learning**, and **Distributed Syste
 
 - 🌦️ **Weather Nowcasting Framework** — Built a **ConvLSTM + Attention-based deep learning model** for short-term weather forecasting using radar imagery.  
   Integrated explainability tools like **Grad-CAM** and **SHAP**, with modular training and inference pipelines for real-time deployment.
-
-
-
 
 ---
 
