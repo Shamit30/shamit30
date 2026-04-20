@@ -84,8 +84,7 @@ I specialize in **Generative AI**, **Machine Learning**, and **Distributed Syste
 | [**cobas**](https://github.com/Shamit30/cobas) | Jupyter-based data analysis and modeling notebooks demonstrating Pythonic workflows and ML experiments. |
 | [**XAI**](https://github.com/Shamit30/XAI) | Explainable AI project focusing on interpretability and transparency of ML models. |
 | [**RAG Chatbot for UM-Dearborn**](https://github.com/Shamit30/Dearborn-RAG-Chatbot) | LangChain + Chroma powered chatbot supporting student services and Excel-based dynamic updates. |
-| [**Weather Nowcasting**](https://github.com/Shamit30/weather-nowcasting) | A real-time spatiotemporal forecasting framework for weather patterns using deep learning.  
- |
+| [**Weather Nowcasting**](https://github.com/Shamit30/weather-nowcasting) | A real-time spatiotemporal forecasting framework for weather patterns using deep learning.
 
 ---
 
