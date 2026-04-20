@@ -1,7 +1,7 @@
 <!-- PROFILE README FOR SHAMIT DHOLAKIYA -->
 
 <h1 align="center">Hi 👋, I'm Shamit Dholakiya</h1>
-<h3 align="center">🚀 Software Engineer | GenAI • ML • Data Science • Distributed Systems</h3>
+<h3 align="center">🚀 Software Engineer | Distributed Systems • GenAI • ML</h3>
 
 <p align="center">
   <a href="mailto:dholakiashamit@gmail.com">📧 Email</a> •
