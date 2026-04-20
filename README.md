@@ -13,7 +13,7 @@
 
 ### 💡 About Me
 
-I'm a **Software Engineer** with experience building **event-driven, cloud-native, and AI-powered systems** across **Node.js**, **GoLang** **Python**, and **React**.  
+I'm a **Software Engineer** with experience building **event-driven, cloud-native, and AI-powered systems** across **Node.js**, **GoLang**, **Python**, and **React**.  
 I specialize in **Generative AI**, **Machine Learning**, and **Distributed Systems**, focusing on transforming data-driven ideas into scalable products.
 
 - ⚙️ Experienced in **event-driven microservice architecture** and asynchronous pipelines  
