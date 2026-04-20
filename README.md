@@ -111,10 +111,3 @@ I specialize in **Generative AI**, **Machine Learning**, and **Distributed Syste
 
 ---
 
-### ⚡ Fun Fact
-> “Agentic AI + Event-Driven Architecture = Scalable Intelligent Systems 🚀”
-
----
-
-*© 2025 Shamit Dholakiya — Crafted with ❤️ using Markdown and GitHub Stats.*
-
